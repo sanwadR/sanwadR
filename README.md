@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Sanwad Rashinkar** 👋<br><br>I'm a developer interested in **AI, Large Language Models, and backend systems**. I enjoy building practical applications using tools like **Python, LangChain, LangGraph, and Chainlit**, and exploring how LLMs can be integrated into real-world products.<br><br>I recently gained hands-on experience through an internship where I worked with **LLM-based systems and modern development workflows**, and I'm currently focused on deepening my understanding of **AI engineering, system design, and developer tools**.<br><br>I'm always learning, building, and experimenting with new technologies that make software smarter and more useful.<br>
+Hi, I'm **Sanwad** 👋<br><br>I'm a developer interested in **AI, Large Language Models, and backend systems**. I enjoy building practical applications using tools like **Python, LangChain, LangGraph, and Chainlit**, and exploring how LLMs can be integrated into real-world products.<br><br>I recently gained hands-on experience through an internship where I worked with **LLM-based systems and modern development workflows**, and I'm currently focused on deepening my understanding of **AI engineering, system design, and developer tools**.<br><br>I'm always learning, building, and experimenting with new technologies that make software smarter and more useful.<br>
 
 
 ## 🌐 Socials:
