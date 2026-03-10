@@ -119,25 +119,38 @@ Collection of tools for building **AI agents**
 
 ---
 
+
+
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanwadR&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanwadR&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=sanwadR&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwadR&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanwadR&theme=tokyonight&hide_border=true" />
 
 </p>
 
----
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanwadR&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanwadR&theme=tokyonight" />
+
+</p>
+
 
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanwadR&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanwadR&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanwadR&theme=tokyonight" />
 
 </p>
 
@@ -167,7 +180,7 @@ Collection of tools for building **AI agents**
 
 <p align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=sanwadR&icon=5&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=sanwadR&label=Profile%20views&color=0e75b6&style=flat" />
 
 </p>
 
