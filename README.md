@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-Hi, I'm **Sanwad** 👋  
+Hi,  I'm **Sanwad** 👋  
 
 I'm passionate about building **AI powered systems and backend platforms** using modern developer tools.
 
